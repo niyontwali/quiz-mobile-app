@@ -77,4 +77,8 @@ Here are the widgets used in the Quiz Mobile App, along with brief descriptions 
 
 16. `Image.asset`: Image.asset is a specific form of the Image widget used to load and display images from the app's local assets. It requires specifying the image's asset path.
 
+17. `TextStyle`: TextStyle is used to define the appearance of text within a Text widget. It allows you to customize various aspects of the text, such as font family, font size, font weight, color, and more. TextStyle is essential for providing consistent and visually appealing text throughout the app.
+
+18. `Icon`: The Icon widget displays a visual representation of an icon, such as a predefined Material Design icon or a custom icon. It is commonly used in combination with buttons, app bars, or other widgets to add visual cues and improve the overall user experience.
+
 These widgets, when combined and used appropriately, allow for the creation of a dynamic and visually appealing quiz app using Flutter.

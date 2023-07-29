@@ -38,6 +38,9 @@ To run this Quiz Mobile App on your local machine, follow these steps:
 
 Now you should have the Quiz Mobile App up and running on your device!
 
+## Sreenshots of the App
+<img width="876" alt="Screenshot 2023-07-29 at 13 52 51" src="https://github.com/niyontwali/quiz-mobile-app/assets/16195731/add8ffd5-ab04-462b-82de-c5b82714b07f">
+
 ## Widgets Used
 
 Here are the widgets used in the Quiz Mobile App, along with brief descriptions of their functionality:
